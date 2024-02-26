@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="search_hint">search_hint</string>
+    <string name="search_pizza">search pizza</string>
+    <string name="pizza">pizza</string>
+    <string name="pizzaSizeText">Средняя 30см, традиционное место, 530г</string>
+    <string name="pizzaimg">PizzaImg</string>
+    <string name="todo">TODO</string>
+    <string name="back"><![CDATA[<]]></string>
+</resources>
